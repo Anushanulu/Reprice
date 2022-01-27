@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="88857" started-at="2022-01-18T17:41:44Z" finished-at="2022-01-18T17:43:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="88857" started-at="2022-01-18T17:41:44Z" finished-at="2022-01-18T17:43:13Z">
+      <class name="Reprice_IN_main.CreateRequestAuth_resp1Repricehistory">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Reprice_IN_main.CreateRequestAuth_resp1Repricehistory@685cb137]" name="setup" is-config="true" duration-ms="15612" started-at="2022-01-18T23:11:44Z" finished-at="2022-01-18T23:12:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="RIPC_Login()[pri:0, instance:Reprice_IN_main.CreateRequestAuth_resp1Repricehistory@685cb137]" name="RIPC_Login" duration-ms="56668" started-at="2022-01-18T23:12:00Z" finished-at="2022-01-18T23:12:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RIPC_Login -->
+        <test-method status="PASS" signature="searchRequest()[pri:1, instance:Reprice_IN_main.CreateRequestAuth_resp1Repricehistory@685cb137]" name="searchRequest" duration-ms="6046" started-at="2022-01-18T23:12:57Z" finished-at="2022-01-18T23:13:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchRequest -->
+        <test-method status="PASS" signature="RepriceHistory()[pri:2, instance:Reprice_IN_main.CreateRequestAuth_resp1Repricehistory@685cb137]" name="RepriceHistory" duration-ms="10479" started-at="2022-01-18T23:13:03Z" finished-at="2022-01-18T23:13:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RepriceHistory -->
+      </class> <!-- Reprice_IN_main.CreateRequestAuth_resp1Repricehistory -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
